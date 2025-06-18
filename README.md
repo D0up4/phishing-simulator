@@ -26,7 +26,7 @@ This project is intended for **ethical red team development**, **security educat
 
 | Login Page              | Credential Log Output              |
 |-------------------------|------------------------------------|
-| ![login page](https://github.com/user-attachments/assets/197b42cd-0d82-48d5-9b39-c15868b83974) | ![logs](https://github.com/user-attachments/assets/2ff87600-86b5-497b-a921-c669a7232a95)         |
+| ![login page](https://github.com/user-attachments/assets/197b42cd-0d82-48d5-9b39-c15868b83974) | ![logs](https://github.com/user-attachments/assets/988e4ee6-e871-47be-a17f-91c3cf045707)         |
 
 ---
 
