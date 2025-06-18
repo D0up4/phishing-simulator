@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI&display=swap');
+
+body {
+    margin: 0;
+    background-color: #f3f3f3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    width: 360px;
+    padding: 40px 40px 48px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.logo {
+    width: 100px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #212121;
+}
+
+.subtitle {
+    font-size: 14px;
+    margin-bottom: 32px;
+    color: #606060;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px 14px;
+    margin-bottom: 16px;
+    border: 1px solid #a6a6a6;
+    border-radius: 3px;
+    font-size: 14px;
+    box-sizing: border-box;
+    outline-offset: 1px;
+    outline-color: #0078d4;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-color: #0078d4;
+    box-shadow: 0 0 0 2px #c7e0f4;
+}
+
+button {
+    width: 100%;
+    background-color: #0078d4;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 16px;
+}
+
+button:hover {
+    background-color: #005a9e;
+}
+
+.footer {
+    font-size: 12px;
+    margin-top: 24px;
+    color: #666666;
+    text-align: center;
+}
+
+a {
+    color: #0078d4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
