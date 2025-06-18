@@ -1,8 +1,8 @@
 # 🎯 Phishing Simulation Toolkit (Red Team Lab)
 
-**Author:** [D0up4]  
+**Author:**  D0up4   
 **Project Type:** Red Team Simulation / Educational
-**Last Updated:** [06/2025]
+**Last Updated:**  06/2025
 
 ## 📘 Description
 
