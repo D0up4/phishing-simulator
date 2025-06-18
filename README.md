@@ -40,7 +40,7 @@ This project is intended for **ethical red team development**, **security educat
 ### 🧪 2. Setup
 
 ```bash
-git clone https://github.com/your-username/phishing-simulator.git
+git clone https://github.com/D0up4/phishing-simulator.git
 cd phishing-simulator
 pip install -r requirements.txt
 python server.py
